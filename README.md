@@ -22,7 +22,7 @@ Retrieved the following ORF2 sequences from [GenBank](https://www.ncbi.nlm.nih.g
 * MAV2 - AWB14570.1
 * PAstV2 - ADP21511.1
 
-2. Aligned sequences with ClustalX using default parameters.
+Aligned sequences with ClustalX using default parameters.
 
 ## ML Tree Construction
 
