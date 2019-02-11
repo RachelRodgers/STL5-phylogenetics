@@ -26,13 +26,13 @@ Retrieved the following ORF2 sequences from [GenBank](https://www.ncbi.nlm.nih.g
 
 ## ML Tree Construction
 
-`raxmlHPC-PTHREADS-AVX2 \
--f a \
--m PROTGAMMABLOSUM62 \
--p 8937 \
--x 2819 \
-N 1000 \
--s AstV_sequences.fasta \
--n AstVMLTree \
--o PAstV2_ADP21511.1 \
+`raxmlHPC-PTHREADS-AVX2 
+-f a 
+-m PROTGAMMABLOSUM62 
+-p 8937 
+-x 2819 
+N 1000 
+-s AstV_sequences.fasta 
+-n AstVMLTree 
+-o PAstV2_ADP21511.1 
 -T 20`
